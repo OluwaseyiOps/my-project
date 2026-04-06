@@ -1,0 +1,1 @@
+app.txt is a sample file used for testing Git operations such as add, commit, and push. It helps in understanding how changes are tracked in a repository and how version control works in collaborative environments.
